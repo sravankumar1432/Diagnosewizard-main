@@ -1,60 +1,99 @@
-# DiagnoseWizard
-Introducing a cutting-edge medical diagnostic website that harnesses the power of technology to revolutionize healthcare. 
-This innovative platform seamlessly blends a user-friendly React frontend with the robust capabilities of Flask and Express.js
-on the backend to provide you with accurate disease predictions based on your medical reports.
+# 🧠 DiagnoseWizard
 
-# Unlocking the Potential : Versatile Uses of Our DiagnoseWizard
+DiagnoseWizard is a smart, full-stack medical diagnosis platform that uses user input (symptoms, medical history, and reports) to generate disease predictions. The application combines a clean React frontend with a robust Flask and Express.js backend to deliver fast, intelligent, and accessible healthcare guidance.
 
-## Medical Symptom Assessment 
-Users can input their symptoms, medical history, and test results, allowing the website to assist in identifying potential diseases or conditions based on the provided information.
+---
 
-## Quick Initial Diagnosis 
-The website offers users a preliminary diagnosis quickly, which can serve as a starting point for understanding their health concerns. This initial insight can be especially useful for those looking for a preliminary assessment.
+## 🌟 Key Use Cases
 
-## Second Opinion 
-Users can use the website to cross-check or verify diagnoses received from healthcare professionals, providing an additional layer of confidence in their medical assessments.
+### 🔬 Medical Symptom Assessment
+Input symptoms, history, and test results to get condition suggestions.
 
-## Health Education 
-The website can educate users about various diseases, their symptoms, and potential risk factors, helping them become more informed about their health.
+###  Quick Preliminary Diagnosis
+Provides a starting-point diagnosis for better understanding and next steps.
 
-## Remote Healthcare 
-In situations where access to healthcare professionals is limited, the website can provide valuable guidance and recommendations based on user-provided data.
+###  Second Opinion
+Cross-check professional diagnoses for added confidence.
 
-## Peace of Mind 
-Users can gain peace of mind by receiving reassurance that their symptoms may not be indicative of a severe condition, reducing anxiety and stress.
+###  Health Education
+Educates users about symptoms, diseases, and risk factors.
 
-## Prompt Referral 
-In cases where the website detects serious health concerns, it can advise users to seek immediate medical attention, potentially helping in early disease detection and treatment.
+###  Remote Healthcare
+Helpful in areas with limited access to doctors.
 
-## Self-Management
-For chronic conditions, the website can offer guidance on managing and living with the disease, including lifestyle and treatment recommendations.
+###  Peace of Mind
+Reduces stress by suggesting if symptoms are not severe.
 
-## Healthcare Resource
-It can serve as a resource for healthcare professionals, providing them with additional data when evaluating patient cases.
+###  Prompt Referrals
+Advises users when urgent medical attention may be needed.
 
-## Research and Data 
-Collection The website can contribute to the collection of medical data for research purposes, helping researchers identify emerging health trends and patterns.
+###  Chronic Disease Management
+Offers lifestyle/treatment advice for long-term conditions.
 
-## Accessibility 
-The website is accessible from anywhere with an internet connection, making it a convenient tool for users seeking health-related information and guidance.
+###  Healthcare Resource
+Assists medical professionals with data and insights.
 
-## 24/7 Availability
-Users can access the website at any time, day or night, making it an invaluable resource for immediate health concerns or questions.
+###  Data for Research
+Can contribute anonymized data to health trend analysis.
 
-## Data Storage
-Users can store and retrieve their medical reports and diagnosis history, aiding in the ongoing management of their health.
+###  Accessible Anywhere
+Works from any internet-enabled device.
 
-## Empowerment
-The website empowers users by providing them with insights and information, enabling them to take a more active role in their healthcare decisions.
+###  24/7 Availability
+Get instant suggestions at any time of day.
 
-## Frontend Setup
- `cd diagnoseWizard ` <br>
- `npm install` <br>
- `npm run dev` <br>
-## Backend Setup
- `cd Server` <br>
- `npm install` <br>
- `npm run start` <br>
+###  Data Storage
+Allows users to save medical history and reports securely.
+
+###  Empowerment
+Enables users to take control of their health journey.
+
+---
+
+## 🛠️ Technologies Used
+
+| Frontend     | Backend       | Other        |
+|--------------|---------------|--------------|
+| React.js     | Express.js    | Node.js      |
+| Tailwind CSS | Flask (Python)| MongoDB / SQL|
+| Vite         | REST APIs     | Git & GitHub |
+
+---
+
+## ✅ My Contributions
+
+This project was inspired by an open-source concept. I have:
+
+- ✅ Set up the full frontend using **React.js + Vite**
+- ✅ Built reusable components for symptom input and results
+- ✅ Integrated **Flask and Express.js** in the backend for handling predictions
+- ✅ Created user-friendly UI/UX with proper routing
+- ✅ Implemented local storage to save medical reports
+- ✅ Deployed the project with working domain (live link below)
+- ✅ Added proper project structure and `README.md` for clarity
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Frontend Setup
+
+# Clone the repository
+git clone https://github.com/sravankumar1432/DiagnoseWizard.git
+
+# Navigate into the project directory
+cd DiagnoseWizard
+
+# Frontend setup
+cd diagnoseWizard
+npm install
+npm run dev
+
+# Backend setup (run this in a separate terminal)
+cd Server
+npm install
+npm start
+
 
 
  
