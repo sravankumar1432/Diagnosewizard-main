@@ -47,8 +47,6 @@ Users can store and retrieve their medical reports and diagnosis history, aiding
 ## Empowerment
 The website empowers users by providing them with insights and information, enabling them to take a more active role in their healthcare decisions.
 
-# SetUp
- `git clone https://github.com/Kota-Karthik/DiagnoseWizard.git`
 ## Frontend Setup
  `cd diagnoseWizard ` <br>
  `npm install` <br>
