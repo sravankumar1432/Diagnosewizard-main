@@ -74,25 +74,20 @@ This project was inspired by an open-source concept. I have:
 
 ---
 
-## 🚀 Getting Started
-
-### 🔧 Frontend Setup
-
 # Clone the repository
 git clone https://github.com/sravankumar1432/Diagnosewizard-main.git
 
 # Navigate into the project directory
 cd DiagnoseWizard
 
-# Frontend setup
-cd diagnoseWizard
-npm install
-npm run dev
-
-# Backend setup (run this in a separate terminal)
-cd Server
-npm install
-npm start
+## Frontend Setup
+ `cd diagnoseWizard ` <br>
+ `npm install` <br>
+ `npm run dev` <br>
+## Backend Setup
+ `cd Server` <br>
+ `npm install` <br>
+ `npm run start` <br>
 
 
 
