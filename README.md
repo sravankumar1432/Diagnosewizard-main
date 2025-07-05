@@ -4,7 +4,7 @@ DiagnoseWizard is a smart, full-stack medical diagnosis platform that uses user 
 
 ---
 
-## 🌟 Key Use Cases
+##  Key Use Cases
 
 ### 🔬 Medical Symptom Assessment
 Input symptoms, history, and test results to get condition suggestions.
@@ -50,17 +50,17 @@ Enables users to take control of their health journey.
 
 
 
-## ✅ My Contributions
+##  My Contributions
 
 This project was inspired by an open-source concept. I have:
 
-- ✅ Set up the full frontend using **React.js + Vite**
-- ✅ Built reusable components for symptom input and results
-- ✅ Integrated **Flask and Express.js** in the backend for handling predictions
-- ✅ Created user-friendly UI/UX with proper routing
-- ✅ Implemented local storage to save medical reports
-- ✅ Deployed the project with working domain (live link below)
-- ✅ Added proper project structure and `README.md` for clarity
+-  Set up the full frontend using **React.js + Vite**
+-  Built reusable components for symptom input and results
+-  Integrated **Flask and Express.js** in the backend for handling predictions
+-  Created user-friendly UI/UX with proper routing
+-  Implemented local storage to save medical reports
+-  Deployed the project with working domain (live link below)
+-  Added proper project structure and `README.md` for clarity
 
 ---
 
