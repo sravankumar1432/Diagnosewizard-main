@@ -48,17 +48,7 @@ Allows users to save medical history and reports securely.
 ###  Empowerment
 Enables users to take control of their health journey.
 
----
 
-## 🛠️ Technologies Used
-
-| Frontend     | Backend       | Other        |
-|--------------|---------------|--------------|
-| React.js     | Express.js    | Node.js      |
-| Tailwind CSS | Flask (Python)| MongoDB / SQL|
-| Vite         | REST APIs     | Git & GitHub |
-
----
 
 ## ✅ My Contributions
 
