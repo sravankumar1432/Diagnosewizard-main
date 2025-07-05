@@ -79,7 +79,7 @@ This project was inspired by an open-source concept. I have:
 ### 🔧 Frontend Setup
 
 # Clone the repository
-git clone https://github.com/sravankumar1432/DiagnoseWizard.git
+git clone https://github.com/sravankumar1432/Diagnosewizard-main.git
 
 # Navigate into the project directory
 cd DiagnoseWizard
